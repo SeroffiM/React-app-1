@@ -1,0 +1,11 @@
+.create-news__container{
+    border: 1px solid #dee2e6;
+    background: #FFF;
+}
+.forms{
+    margin-bottom: 10px;
+}
+.create-news__container{
+    display: flex;
+    justify-content: space-around;
+}
